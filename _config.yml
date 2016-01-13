@@ -1,0 +1,28 @@
+name: Hydraulic Hose akron-ohio
+favicon: null
+layout_spectrum: 0.2699935070704669
+typography_spectrum: 0.5945125548169017
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3313944903202355
+  lightness: 0.6622002141084522
+  saturation: 0.2111233330797404
+  rhythmicContrast: 0.9914702556561679
+purpose: []
